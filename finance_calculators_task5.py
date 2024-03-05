@@ -1,4 +1,15 @@
 # This is an investment calculator and a home loan repayment calculator
+"""TO add 
+while True:
+try:
+user_input = float(input("Enter a numeric value greater than zero: "))
+if 0<= user_input <=100:
+break # Exit the loop if user input is valid
+else:
+print("Please enter a value greater than zero.")
+except ValueError:
+print("Invalid input. Please enter a numeric value.")
+"""
 
 import math
 
